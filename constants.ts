@@ -132,14 +132,7 @@ export const PROJECTS: Project[] = [
     isCapstone: true,
     demoVideoUrl: "https://capeitinitiative-my.sharepoint.com/:f:/g/personal/nkosimphile_mnisi_capaciti_org_za/IgCLKnTjz9oWSbEFUc5Jg_deAcpZ8FKm11gFw7iHDYt8u_g?e=xTOzL2"
   },
-  {
-    title: "HealthGuard",
-    description: "A UI/UX prototype for a patient monitoring system designed for discharged high-risk and surgical patients to reduce hospital readmissions.",
-    tags: ["UI/UX", "Figma", "Prototyping"],
-    liveDemoUrl: "https://www.figma.com/make/Y2SPOeoB7aXmnu1kgNC5mD/Healthcare-App-Prototype?node-id=0-4&t=XG3yJMdcuUnrTGJQ-1",
-    githubRepoUrl: "https://github.com/BuhlaluseNgcobo/HealthGuard_Prototype",
-    documentationUrl: "#",
-  },
+  
   {
     title: "AI Resume Builder",
     description: "An intelligent tool that builds ATS-friendly resumes, tailors CVs to specific job descriptions, checks ATS scores, and suggests improvements.",
