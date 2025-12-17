@@ -57,13 +57,5 @@ npm run dev
 bash
 npm run build
 
-📬 Contact
-If you'd like to collaborate or get in touch:
-
-
-LinkedIn: https://linkedin.com/in/your-profile
-
-GitHub: https://github.com/BuhlaluseNgcobo
-
 ⭐ Contributing
 This is a personal project, but suggestions are welcome! Feel free to open an issue or submit a pull request.
